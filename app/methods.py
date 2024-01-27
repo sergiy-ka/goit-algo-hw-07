@@ -24,14 +24,14 @@ def max_value_node(node):
     current = node
     while current.right:
         current = current.right
-    return current
+    return current.val
 
 
 def min_value_node(node):
     current = node
     while current.left:
         current = current.left
-    return current
+    return current.val
 
 
 def sum_values(root):

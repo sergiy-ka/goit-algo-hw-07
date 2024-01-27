@@ -20,4 +20,4 @@ if __name__ == "__main__":
 
     # Найменше значення в дереві
     min_val = min_value_node(root)
-    print(f"Найменше значення в дереві: {min_val.val}")
+    print(f"Найменше значення в дереві: {min_val}")

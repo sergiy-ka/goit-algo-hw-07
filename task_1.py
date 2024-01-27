@@ -20,4 +20,4 @@ if __name__ == "__main__":
 
     # Найбільше значення в дереві
     max_val = max_value_node(root)
-    print(f"Найбільше значення в дереві: {max_val.val}")
+    print(f"Найбільше значення в дереві: {max_val}")
